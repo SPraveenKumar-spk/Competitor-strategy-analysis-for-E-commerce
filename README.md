@@ -74,7 +74,10 @@ This command will start the Streamlit app, which is likely the user interface fo
 
 # Project Files
 
-app.py: This is the main script for the application. It likely contains the core logic for data analysis, visualization, and interaction with the user interface.
+app.py : This is the main script for the application. It likely contains the core logic for data analysis, visualization, and interaction with the user interface.
+
 scrape.py: This script is responsible for web scraping competitor data from various sources.
+
 reviews.csv: This file contains sample customer reviews data that will be used for sentiment analysis.
+
 competitor_data.csv: This file contains sample competitor data that will be used for analysis.
